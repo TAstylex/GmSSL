@@ -35,6 +35,7 @@ appId = 1.3.1.2.2.10
 androidPackageName = 1.3.1.2.2.11
 iosPackageName = 1.3.1.2.2.12
 androidSignature = 1.3.1.2.2.13
+iosSignature = 1.3.1.2.2.14
 
 ####################################################################
 [ ca ]
@@ -145,6 +146,7 @@ appId = app id
 androidPackageName = android package name
 iosPackageName = ios package name
 androidSignature = android signature
+iosSignature = ios signature
 
 # we can do this but it is not needed normally :-)
 #1.organizationName		= Second Organization Name (eg, company)
